@@ -1,10 +1,10 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
 
-class New extends Component {
+class Home extends Component {
   render() {
-    return <div>test</div>;
+    return <div>BLEHHHJHHHHHH</div>;
   }
 }
 
-export default New;
+export default Home;
