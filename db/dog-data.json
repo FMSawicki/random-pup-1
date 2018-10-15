@@ -1,0 +1,42 @@
+[
+  {
+    "name" : "Akita",
+    "image" : "https://images.dog.ceo/breeds/akita/Akita_Inu_dog.jpg"
+  },
+  {
+    "name" : "Basenji",
+    "image" : "https://images.dog.ceo/breeds/basenji/n02110806_3531.jpg"
+  },
+  {
+    "name" : "Borzoi",
+    "image" : "https://images.dog.ceo/breeds/borzoi/n02090622_906.jpg"
+  },
+  {
+    "name" : "Boxer",
+    "image" : "https://images.dog.ceo/breeds/boxer/n02108089_2953.jpg"
+  },
+  {
+    "name" : "French Bulldog",
+    "image" : "https://images.dog.ceo/breeds/bulldog-french/n02108915_3988.jpg"
+  },
+  {
+    "name" : "Australian Cattledog",
+    "image" : "https://images.dog.ceo/breeds/cattledog-australian/IMG_2432.jpg"
+  },
+  {
+    "name" : "Chihuahua",
+    "image" : "https://images.dog.ceo/breeds/chihuahua/n02085620_368.jpg"
+  },
+  {
+    "name" : "Chow",
+    "image" : "https://images.dog.ceo/breeds/chow/n02112137_8212.jpg"
+  },
+  {
+    "name" : "Dachshund",
+    "image" : "https://images.dog.ceo/breeds/dachshund/dog-55140_640.jpg"
+  },
+  {
+    "name" : "Eskimo",
+    "image" : "https://images.dog.ceo/breeds/eskimo/n02109961_977.jpg"
+  }
+]
