@@ -6,7 +6,14 @@ class App extends Component {
   render() {
     return (
       <div>
-        <h1>Hello World</h1>
+        <nav>
+          <Link to="/">Doggos!</Link>
+          <Link to="/new">Add Doggo!</Link>
+        </nav>
+        <main>
+          <Route path="/new" render={() => <New />} />
+          <Route path="/" render={} />
+        </main>
       </div>
     );
   }
